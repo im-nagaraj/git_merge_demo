@@ -1,2 +1,3 @@
 hello this is master commit
-demo merge
+Demo of a MErge Conflict
+Hello Nagaraj, This is aishwarya
