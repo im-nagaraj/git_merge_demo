@@ -1,3 +1,6 @@
 hello this is master commit
 Demo of a MErge Conflict
-Hello Nagaraj, This is aishwarya
+Hello Nagaraj, This is aishwary
+Hi Nagarj, this is prashant 
+Iam going to make add few line into project
+
