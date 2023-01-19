@@ -1,2 +1,4 @@
 hello this is master commit
-demo merge
+demo merge :by nagaraj
+Hi Nagarj, this is prashant 
+Iam going to make add few line into project
